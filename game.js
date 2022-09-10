@@ -1,22 +1,22 @@
 let words = [
     {
             "inputs": 5,
-            "category": "Sports, Ok i will directely tell you the game its 'Chess'", 
+            "category": "Sports, It is a board game and you use characters and capture the king to win the game with strategy and brain", 
             "word": "Chess"
     },
     {
         "inputs": 6,
-        "category": "European Country, ok to make it easier for you to guess the country i will give you a hint of the country i am thinking of, you have to tell the country which is located on english channel and bay of Biscay", 
+        "category": "European Country, Lous XVI ruled this place in the past and a big revolution had taken place during that time", 
         "word": "France"
     },
     {
         "inputs": 6,
-        "category": "latin american country, ok to make it easier for you to guess the country i will give you a hint of the country i am thinking of, ya where worlds biggest forest is located",
+        "category": "latin american country, worlds biggest forest is located in this country",
         "word": "Brazil"
     },
     {
         "inputs": 7,
-        "category": "guess this language:- Español",
+        "category": "guess this language : Español",
         "word": "Spanish"
     },
 ]
